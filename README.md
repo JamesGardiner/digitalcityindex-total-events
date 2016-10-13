@@ -11,3 +11,7 @@ Uses the group IDs to crawl for events data, then filter these for:
   - Events that are within the bounding box of the relevant city
 
 The total number of events for each city is stored in `data/processed/events_in_cities_date_time.csv`.
+
+Some of the code used in this repo has been adapted from @mattjw's meetup repo:
+
+  https://github.com/mattjw/exploring_tech_meetups
